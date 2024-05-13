@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FidDemo", "FidDemo\FidDemo.csproj", "{E4A2551B-354C-4965-AFFF-1AFED67E3882}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FidDemoIntercptor", "FidDemoIntercptor\FidDemoIntercptor.csproj", "{D24843F8-4AFE-45A8-8FB7-25E502C06D60}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E4A2551B-354C-4965-AFFF-1AFED67E3882}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4A2551B-354C-4965-AFFF-1AFED67E3882}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E4A2551B-354C-4965-AFFF-1AFED67E3882}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E4A2551B-354C-4965-AFFF-1AFED67E3882}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D24843F8-4AFE-45A8-8FB7-25E502C06D60}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D24843F8-4AFE-45A8-8FB7-25E502C06D60}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D24843F8-4AFE-45A8-8FB7-25E502C06D60}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D24843F8-4AFE-45A8-8FB7-25E502C06D60}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0079DACA-CAE1-4CD5-A247-F4C40668DB37}
+	EndGlobalSection
+EndGlobal
